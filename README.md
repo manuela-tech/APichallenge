@@ -1,5 +1,5 @@
 # ForoHub
-
+El PROYECTO SE ENCUENTRA EN EL ZIP, FAVOR DE DESCARGAR ANTES DE USARLO
 API REST para la gestión de tópicos de discusión con autenticación mediante tokens.
 
 ## Tecnologías
